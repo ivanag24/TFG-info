@@ -15,10 +15,10 @@ You can find the complete documentation at the following link: [Overleaf Project
 ## Code
 
 The repository includes the code organized in the `code` directory:  
-- **MaskAlgorithm**: A script containing the first part of the algorithm, which generates the cloud and shadow masks from satellite hyperspectral image sequences.  
-- **CloudShadowRemovalNet**: A script defining the class that implements a convolutional neural network (CNN) inspired by the U-Net architecture.  
-- **Main.py**: The main script that integrates the algorithm's functions and executes the complete process.
-- **Download.py**: A script to download the Sentinel-2 L1C collection from the Copernicus API. To run this script, it is necessary to install the `sentinelhub` package. You can install it using:  
+- **maskAlgorithm**: A script containing the first part of the algorithm, which generates the cloud and shadow masks from satellite hyperspectral image sequences.  
+- **cloudShadowRemovalNet**: A script defining the class that implements a convolutional neural network (CNN) inspired by the U-Net architecture.  
+- **main.py**: The main script that integrates the algorithm's functions and executes the complete process.
+- **download.py**: A script to download the Sentinel-2 L1C collection from the Copernicus API. To run this script, it is necessary to install the `sentinelhub` package. You can install it using:  
   ```bash
   pip install sentinelhub
   
@@ -26,7 +26,7 @@ The repository also includes all the necessary libraries to run the code, specif
 
 ## Example
 
-The repository includes a demostration in the 'example' directory. This folder contains:
+The repository includes a demostration in the `example` directory. This folder contains:
   - The original satellite image.
   - The cloud and shadow mask of the first time node.
   - The result of applying the algorithm.
