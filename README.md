@@ -22,7 +22,7 @@ The repository includes the code organized in the `code` directory:
   ```bash
   pip install sentinelhub
   
-The repository also includes all the necessary libraries to run the code, specified in the 'requirements.txt' file.
+The repository also includes all the necessary libraries to run the code, specified in the `requirements.txt` file.
 
 ## Example
 
