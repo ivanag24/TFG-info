@@ -32,8 +32,9 @@ The repository includes a demostration in the `example` directory. This folder c
   - The result of applying the algorithm.
     
 Below are some images from an example:
+<p align="center">
+  <img src="example/I.png" alt="Original satellite image from the Sentinel-2 Level-1C collection" width="45%">
+  <img src="example/new_I.png" alt="New satellite image from the Sentinel-2 Level-1C collection without cloud and shadows" width="45%">
+</p>
 
-![Original satellite image from the Sentinel-2 Level-1C collection](example/I.png)
-
-![New satellite image from the Sentinel-2 Level-1C collection without cloud and shadows](example/new_I.png)
 
