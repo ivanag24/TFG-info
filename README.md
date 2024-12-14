@@ -30,5 +30,10 @@ The repository includes a demostration in the `example` directory. This folder c
   - The original satellite image.
   - The cloud and shadow mask of the first time node.
   - The result of applying the algorithm.
+    
+Below are some images from an example:
 
+![Original satellite image from the Sentinel-2 Level-1C collection](examples/I.png)
+
+![New satellite image from the Sentinel-2 Level-1C collection without cloud and shadows](examples/new_I.png)
 
