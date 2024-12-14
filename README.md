@@ -33,7 +33,7 @@ The repository includes a demostration in the `example` directory. This folder c
     
 Below are some images from an example:
 
-![Original satellite image from the Sentinel-2 Level-1C collection](examples/I.png)
+![Original satellite image from the Sentinel-2 Level-1C collection](example/I.png)
 
-![New satellite image from the Sentinel-2 Level-1C collection without cloud and shadows](examples/new_I.png)
+![New satellite image from the Sentinel-2 Level-1C collection without cloud and shadows](example/new_I.png)
 
