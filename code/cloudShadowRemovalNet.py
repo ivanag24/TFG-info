@@ -278,7 +278,7 @@ class CustomLoss(nn.Module):
   A custom loss function for image processing, combining Mean Squared Error (MSE) loss over masked image regions.
 
   This loss function applies the MSE loss to different image regions based on a given mask, which is used to focus on specific parts of the images.
-  The loss is computed for four different image regions, with each region corresponding to a specific portion of the input images and their predictions.
+  This function differs from 4.1 only by a scaling factor t, which does not affect the argument being optimized.
 
   Attributes
   ----------
