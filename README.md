@@ -1,6 +1,6 @@
-# Bachelor's Degree Final Project: Unsupervised Deep Learning: An Application to the Reconstruction of Satellite Images
+# Unsupervised Deep Learning: An Application to the Reconstruction of Satellite Images
 
-This repository contains the implementation and results of my Bachelor's Degree Final Project:___, which addresses the challenge of detecting and removing clouds and shadows from satellite hyperspectral image sequences. Satellite images are crucial for numerous scientific disciplines, but their effectiveness is often hindered by cloud coverage and shadows. The project leverages artificial intelligence, particularly neural networks and the Deep Image Prior technique, to develop a solution. Below is a summary of the project.
+This repository contains the implementation and results of my Bachelor's Degree Final Project:Unsupervised Deep Learning: An Application to the Reconstruction of Satellite Images, which addresses the challenge of detecting and removing clouds and shadows from satellite hyperspectral image sequences. Satellite images are crucial for numerous scientific disciplines, but their effectiveness is often hindered by cloud coverage and shadows. The project leverages artificial intelligence, particularly neural networks and the Deep Image Prior technique, to develop a solution. Below is a summary of the project.
 
 ## Key Components
 
